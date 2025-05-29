@@ -75,4 +75,3 @@ def _determinant(matrix):
             for idx, (first_row_element, sub_matrix) in
             enumerate(zip(first_row, sub_matrices))
         )
-
