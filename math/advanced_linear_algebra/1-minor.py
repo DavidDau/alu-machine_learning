@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Minor of a Matrix"""
 
+
 def minor(matrix):
     """Compute first minor matrix"""
     try:
